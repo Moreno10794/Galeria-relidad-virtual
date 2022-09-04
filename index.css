@@ -1,0 +1,32 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ 
+
+#div1 
+{    
+    position: absolute;
+    background-color:black ;
+    width:5px;
+    height:5px;
+    top:50%;
+    right:25%;
+}
+
+ 
+
+#div2
+{
+    position: absolute;
+    background-color:black ;
+    width:5px;
+    height:5px;
+    top:50%;
+    right:75%;
+}
+
+
+
